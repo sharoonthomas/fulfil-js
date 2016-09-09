@@ -1,0 +1,27 @@
+{
+  "name": "fulfil",
+  "version": "0.0.1",
+  "description": "Fulfil.IO Javascript/Node client",
+  "main": "lib/fulfil.js",
+  "scripts": {
+    "test": "npm run lint && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fulfilio/fulfil.js.git"
+  },
+  "keywords": [
+    "fulfil.io",
+    "erp"
+  ],
+  "author": "Fulfil.IO Inc.",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/fulfilio/fulfil.js/issues"
+  },
+  "homepage": "https://github.com/fulfilio/fulfil.js#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "lodash": "^4.15.0"
+  }
+}

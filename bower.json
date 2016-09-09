@@ -1,0 +1,21 @@
+{
+  "name": "fulfil",
+  "description": "Fulfil.IO Javascript/Node client",
+  "main": "lib/fulfil.js",
+  "authors": [
+    "Fulfil.IO Inc."
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "fulfil.io",
+    "erp"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
